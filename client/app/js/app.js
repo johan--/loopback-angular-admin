@@ -61,6 +61,11 @@ angular.module('loopbackApp', [
         country: 'US',
         name: gettextCatalog.getString('English')
       },
+      'es': {
+        lang: 'es',
+        country: 'ES',
+        name: gettextCatalog.getString('Spanish')
+      },
       'fr': {
         lang: 'fr',
         country: 'FR',
