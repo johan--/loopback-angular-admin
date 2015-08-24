@@ -20,3 +20,8 @@ client/coverage
 .cache
 .config
 .npm
+
+i# Intellij IDEA
+.idea
+*.iml
+
